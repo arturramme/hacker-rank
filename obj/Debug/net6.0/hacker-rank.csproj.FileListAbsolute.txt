@@ -1,0 +1,15 @@
+C:\Users\artur\source\repos\hacker-rank\bin\Debug\net6.0\hacker-rank.exe
+C:\Users\artur\source\repos\hacker-rank\bin\Debug\net6.0\hacker-rank.deps.json
+C:\Users\artur\source\repos\hacker-rank\bin\Debug\net6.0\hacker-rank.runtimeconfig.json
+C:\Users\artur\source\repos\hacker-rank\bin\Debug\net6.0\hacker-rank.dll
+C:\Users\artur\source\repos\hacker-rank\bin\Debug\net6.0\hacker-rank.pdb
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\hacker-rank.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\hacker-rank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\hacker-rank.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\hacker-rank.AssemblyInfo.cs
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\hacker-rank.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\hacker-rank.dll
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\refint\hacker-rank.dll
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\hacker-rank.pdb
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\hacker-rank.genruntimeconfig.cache
+C:\Users\artur\source\repos\hacker-rank\obj\Debug\net6.0\ref\hacker-rank.dll

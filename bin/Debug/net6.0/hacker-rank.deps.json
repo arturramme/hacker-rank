@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hacker-rank/1.0.0": {
+        "runtime": {
+          "hacker-rank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hacker-rank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
